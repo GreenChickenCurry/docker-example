@@ -18,5 +18,7 @@
 
 ```sh
   docker build -t test1:latest .
+```
+```sh
   docker run -d -p 8080:8080 test1:latest
 ```
