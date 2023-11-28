@@ -39,7 +39,7 @@
   docker build -t test3:latest .
 ```
 ```sh
-  docker run -d -p 5001:5001 test1:latest
+  docker run -d -p 5001:5001 test3:latest
 ```
 
 Далее переходим в браузере на
