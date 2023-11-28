@@ -3,9 +3,13 @@
 ## О Практике
 
 Для трёх различных веб-приложений были написаны три докер контейнера:
+
+
 * 1_docker_spring,
 * 2_docker_dotnet,
 * 3_docker_python.
+
+
 Первый, второй и третий контейнеры содержат соответственно spring boot(java), dotnet(C#) и flask(python) приложения.
 
 Заходим в директорию \textup{Dockerdir}, далее, в папку \textup{1\_docker\_spring}.
