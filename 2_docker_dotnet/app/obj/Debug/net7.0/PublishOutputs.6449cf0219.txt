@@ -1,0 +1,12 @@
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/app
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/appsettings.Development.json
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/appsettings.json
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/app.dll
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/app.deps.json
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/app.runtimeconfig.json
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/app.pdb
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/user/Praktika/2_docker_dotnet/app/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
